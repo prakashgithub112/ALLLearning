@@ -1,0 +1,1 @@
+Java  Web Applications are used to create dynamic websites. Java provides support for web application through  Servlets and JSPs.  If you are going to create a java web application then i hope below points will be useful for you.  Java Web Application best practices.
